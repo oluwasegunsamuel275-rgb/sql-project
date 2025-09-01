@@ -72,7 +72,7 @@
 --from OrderDetails
 --Group by ProductId
 
----Retrieve all orders along with the customer’s first name, last name, and Gender.
+---Retrieve all orders along with the customerâ€™s first name, last name, and Gender.
 
 --select *
 --from [dbo].[CustomerInfo]
